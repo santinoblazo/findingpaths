@@ -1,0 +1,40 @@
+.div1 {
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 50px;
+}
+
+#p1 {
+    background: green;
+    width: 100%;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px;
+}
+
+#p2 {
+    background-color: blue;
+    width: 50%;
+    float: right;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px;
+}
+
+#p3 {
+    background: red;
+    width: 50%;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px;
+}
+
+#footer {
+    background: orange;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
